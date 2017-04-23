@@ -1,0 +1,52 @@
+1) Steps For Configuring the GitHub
+
+git config --global http.sslVerify false
+ 
+>git config --global user.name "Your Name"  (Specifiy your github ID)
+>git config --global user.email you@example.com  (Specify your github email ID registered one)
+
+
+2) Create a New Folder
+
+3) Pull the remote master branch if any from the repository.
+e.g:
+
+ git clone -b development https://github.com/---/---.git 
+ 
+4)Check the branch by 
+ 
+  >git branch  (it will show the master branch)
+
+5)Create your own feature branch 
+  Since,Making direct changes of modifying the master branch is not recommended 
+i.e.
+   git checkout -b branchname
+
+6) Check again the branch by 
+   >git branch > it should shows your current freature branch
+
+
+7) Now you can add file/update an existing file.
+
+8) Do update of existing file to start with by creating one issue e.g. update the READ ME FILE 
+
+Execute the GIT Commit by > 
+
+9)git commit -am "Updating the read me file closes issue#????"  
+ (Find the -am value from internet, -a stand for addig the file )
+
+10)Checking the differences
+>git diff (to verify what difference you have added)
+
+11) Then push the code to the REMOTE origin from where we got the original code, this will push your feature branch only as we don;t want to mess up the master branch 
+
+12)> git push origin <YOUR FEATURE BRANCH NAME>
+
+Execute the following to see if all code is in transferred or not
+
+git status (this will show nothing to commit)
+
+
+Then go to GITHUB WEBCONSOLE > Code > look for commits > Select your commit > Create a PULL req and associate the reviewer
+
+Wait for the reviewer comment > Once confirmed then lets do the MERGE to the master.
