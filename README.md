@@ -6,3 +6,5 @@ Making some change from webconsole prior to commite as rajturbot from VS tool
 
 Rajturbot making some changes from the VS tool installed in mac directly to master (bad practice)
 
+Rajturbot is making change from new branch called feature1 from mac VS tool
+
