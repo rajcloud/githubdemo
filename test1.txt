@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 240B-5D3A
+
+ Directory of C:\Users\ABHISEK KHUNTIA\Desktop\practice
+
+23-04-2017  17:13    <DIR>          .
+23-04-2017  17:13    <DIR>          ..
+23-04-2017  17:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,221,869,568 bytes free
