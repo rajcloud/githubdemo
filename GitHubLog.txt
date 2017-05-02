@@ -1,0 +1,787 @@
+2017-04-24 00:51:54.0352|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 140 at RepositoryViewModel.cs:319 after blocking 0.0161537s
+2017-04-23 18:08:58.9258|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2017-04-23 18:08:58.9863|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2017-04-23 18:08:59.0104|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| #########################################
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.3.4.0
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| Build version: 50415dfc92210fcda6c1e5a82b0e4aec7c60bec6
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***************************************
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| ***************************************
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| OS Version: Windows 10 10.0.14393.0 amd64
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| Current culture: en-IN
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2017-04-23 18:08:59.1289|INFO|thread: 4|StartupLogging| Location: C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\GitHub.exe
+2017-04-23 18:08:59.1700|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2017-04-23 18:08:59.1700|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\GitHub.exe
+2017-04-23 18:08:59.1950|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2017-04-23 18:08:59.1950|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2017-04-23 18:08:59.2480|INFO|thread: 1|App|Checking whether application is network deployed: True
+2017-04-23 18:08:59.2480|INFO|thread: 1|App|Shortcut C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2017-04-23 18:08:59.2906|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:08:59.2906|INFO|thread: 4|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Lib\site-packages\;C:\Python27\Scripts;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\runtime\win64;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\ABHISEK KHUNTIA\Anaconda3;C:\Users\ABHISEK KHUNTIA\Anaconda3\Scripts;C:\Users\ABHISEK KHUNTIA\Anaconda3\Library\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\ABHISEK KHUNTIA\AppData\Local\Programs\Python\Python35-32\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Lib\site-packages\;C:\Python27\Scripts;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\runtime\win64;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShe;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:08:59.3326|INFO|thread: 4|StartupLogging| =====================================================
+2017-04-23 18:08:59.3326|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2017-04-23 18:08:59.3326|INFO|thread: 4|StartupLogging| =====================================================
+2017-04-23 18:08:59.3326|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2017-04-23 18:08:59.3326|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db'
+2017-04-23 18:08:59.3526|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe'
+2017-04-23 18:08:59.3526|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\WINDOWS\System32\WindowsPowerShe'
+2017-04-23 18:08:59.3721|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2017-04-23 18:08:59.3721|INFO|thread: 4|StartupLogging| PATH: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Lib\site-packages\;C:\Python27\Scripts;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\runtime\win64;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\ABHISEK KHUNTIA\Anaconda3;C:\Users\ABHISEK KHUNTIA\Anaconda3\Scripts;C:\Users\ABHISEK KHUNTIA\Anaconda3\Library\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\ABHISEK KHUNTIA\AppData\Local\Programs\Python\Python35-32\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\PC Connectivity Solution\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\Python27\Lib\site-packages\;C:\Python27\Scripts;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\runtime\win64;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\bin;C:\Program Files\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShe
+2017-04-23 18:08:59.4357|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2017-04-23 18:08:59.4357|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2017-04-23 18:08:59.4442|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\Images\App.ico'
+2017-04-23 18:09:01.9356|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2017-04-23 18:09:02.3214|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2017-04-23 18:09:02.3309|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 198 entries
+2017-04-23 18:09:02.5275|INFO|thread: 4|StartupSequence|Took 642ms to Update certificate bundle from system store
+2017-04-23 18:09:04.8235|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2017-04-23 18:09:04.8547|INFO|thread: 1|GitClient|Installing git lfs filters
+2017-04-23 18:09:04.9758|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:09:04.9758|INFO|thread: 1|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:09:05.0128|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\ABHISEK KHUNTIA\AppData\Local\Temp\
+2017-04-23 18:09:05.0249|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2017-04-23 18:09:05.0249|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2017-04-23 18:09:08.8415|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2017-04-23 18:09:09.7862|INFO|thread: 4|SoftwareUpdateViewModel|Checking for new version
+2017-04-23 18:09:10.6233|WARN|thread: 9|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2017-04-23 18:09:12.7874|WARN|thread: 1|RepositoryHost|Got an authorization exception: Bad credentials
+Octokit.AuthorizationException: Bad credentials
+   at Octokit.Connection.HandleErrors(IResponse response)
+   at Octokit.Connection.<RunRequest>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.Connection.<Run>d__23`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2017-04-23 18:09:12.9144|INFO|thread: 1|RepositoryHost|Log in from cache for login '(null)' to host 'https://api.github.com/' FAILED
+2017-04-23 18:09:13.2432|INFO|thread:13|DashboardViewModel|Selected repository ''
+2017-04-23 18:09:13.3227|INFO|thread:13|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:605
+2017-04-23 18:09:13.3307|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:605 after waiting 0.0075852s
+2017-04-23 18:09:13.3432|INFO|thread:13|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:583
+2017-04-23 18:09:13.4603|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:605 after blocking 0.1294289s
+2017-04-23 18:09:13.4603|INFO|thread: 5|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:583 after waiting 0.1212763s
+2017-04-23 18:09:14.9724|INFO|thread:13|DashboardViewModel|Selected repository '/Tutorial'
+2017-04-23 18:09:14.9724|INFO|thread:13|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:605
+2017-04-23 18:09:14.9724|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:605 after waiting 9.03E-05s
+2017-04-23 18:09:14.9724|INFO|thread:13|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 4 at GitClient.cs:583
+2017-04-23 18:09:14.9949|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:605 after blocking 0.0195026s
+2017-04-23 18:09:14.9949|INFO|thread: 4|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 4 at GitClient.cs:583 after waiting 0.0192686s
+2017-04-23 18:09:15.6349|INFO|thread:13|DashboardViewModel|Selected repository ''
+2017-04-23 18:09:15.8190|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:600
+2017-04-23 18:09:15.8190|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at GitClient.cs:600
+2017-04-23 18:09:16.4349|INFO|thread: 4|DashboardViewModel|Took 1461ms to Create RepositoryViewModel for location C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-04-23 18:09:16.4349|INFO|thread: 5|DashboardViewModel|Took 3138ms to Create RepositoryViewModel for location C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:16.4374|INFO|thread: 4|AsyncReaderWriterLock|Released exclusive scheduler for operation: 4 at GitClient.cs:583 after blocking 1.442156s
+2017-04-23 18:09:16.4374|INFO|thread: 5|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:583 after blocking 2.9727614s
+2017-04-23 18:09:16.4374|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:600 after waiting 0.6200537s
+2017-04-23 18:09:16.4374|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at GitClient.cs:600 after waiting 0.6199831s
+2017-04-23 18:09:16.5670|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryViewModel.cs:319
+2017-04-23 18:09:16.5670|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryViewModel.cs:319
+2017-04-23 18:09:16.5670|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryViewModel.cs:319 after waiting 0.0053342s
+2017-04-23 18:09:16.5670|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryViewModel.cs:319 after waiting 0.0050542s
+2017-04-23 18:09:16.5670|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at GitClient.cs:600 after blocking 0.1378505s
+2017-04-23 18:09:16.5775|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:600 after blocking 0.1382212s
+2017-04-23 18:09:16.8172|ERROR|thread: 4|RepositoryViewModel|Failed to produce the next comparison graph state.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at GitHub.ConcurrentRepositoryConnection.<GetDefaultRemote>b__4c()
+   at System.Reactive.Linq.ObservableImpl.Defer`1.Eval()
+   at System.Reactive.Linq.ObservableImpl.Defer`1._.Run()
+2017-04-23 18:09:16.8352|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryViewModel.cs:319 after blocking 0.2625631s
+2017-04-23 18:09:16.8512|WARN|thread: 4|ComparisonGraphViewModel|Failed to produce graph
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at GitHub.ConcurrentRepositoryConnection.<GetDefaultRemote>b__4c()
+   at System.Reactive.Linq.ObservableImpl.Defer`1.Eval()
+   at System.Reactive.Linq.ObservableImpl.Defer`1._.Run()
+2017-04-23 18:09:16.8512|ERROR|thread: 4|ComparisonGraphViewModel|Error drawing next graph state
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at GitHub.ConcurrentRepositoryConnection.<GetDefaultRemote>b__4c()
+   at System.Reactive.Linq.ObservableImpl.Defer`1.Eval()
+   at System.Reactive.Linq.ObservableImpl.Defer`1._.Run()
+2017-04-23 18:09:17.0074|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryViewModel.cs:319 after blocking 0.4351126s
+2017-04-23 18:09:17.4502|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at GitClient.cs:195
+2017-04-23 18:09:17.4502|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at GitClient.cs:195 after waiting 0.0002352s
+2017-04-23 18:09:17.4567|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at RepositoryModel.cs:596
+2017-04-23 18:09:17.4702|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at RepositoryModel.cs:596
+2017-04-23 18:09:17.5387|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at RepositoryModel.cs:596 after waiting 0.0820875s
+2017-04-23 18:09:17.6333|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at GitClient.cs:195 after blocking 0.1826674s
+2017-04-23 18:09:17.6333|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at RepositoryModel.cs:596 after waiting 0.1628121s
+2017-04-23 18:09:17.6958|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at NewPullRequestViewModel.cs:245
+2017-04-23 18:09:17.7053|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at GitClient.cs:267
+2017-04-23 18:09:17.7053|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at RepositoryModel.cs:596 after blocking 0.1680815s
+2017-04-23 18:09:17.7053|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at RepositoryModel.cs:596 after blocking 0.0735905s
+2017-04-23 18:09:17.7359|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at GitClient.cs:267 after waiting 0.0305988s
+2017-04-23 18:09:17.7359|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at NewPullRequestViewModel.cs:245 after waiting 0.0454935s
+2017-04-23 18:09:17.9230|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at NewPullRequestViewModel.cs:245 after blocking 0.1816s
+2017-04-23 18:09:17.9800|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:09:17.9800|INFO|thread: 9|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:09:17.9800|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:09:18.2307|INFO|thread: 9|ConcurrentRepositoryConnection|Took 218ms to git status
+2017-04-23 18:09:18.2307|INFO|thread: 9|ConcurrentRepositoryConnection|Took 222ms to git status and parse output
+2017-04-23 18:09:19.0228|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at GitClient.cs:588
+2017-04-23 18:09:19.8063|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at GitClient.cs:588 after waiting 0.7835219s
+2017-04-23 18:09:19.8063|INFO|thread: 9|NewCommitViewModel|Took 2104ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:19.8063|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at GitClient.cs:267 after blocking 2.0747051s
+2017-04-23 18:09:19.8269|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at GitClient.cs:588 after blocking 0.0204086s
+2017-04-23 18:09:21.3669|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at BranchesViewModel.cs:356
+2017-04-23 18:09:21.3669|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at BranchesViewModel.cs:356 after waiting 0.0002204s
+2017-04-23 18:09:21.3785|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at RepositoryViewModel.cs:319
+2017-04-23 18:09:21.3785|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at RepositoryViewModel.cs:319 after waiting 0.0003116s
+2017-04-23 18:09:21.4535|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at OpenInExistingProgramViewModel.cs:266
+2017-04-23 18:09:21.4535|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at OpenInExistingProgramViewModel.cs:266 after waiting 8.29E-05s
+2017-04-23 18:09:21.4535|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at BranchesViewModel.cs:356 after blocking 0.0892105s
+2017-04-23 18:09:21.5516|INFO|thread:28|OpenInExistingProgramViewModel|Took 153ms to load solution files at C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:21.5516|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at OpenInExistingProgramViewModel.cs:266 after blocking 0.0987225s
+2017-04-23 18:09:21.6687|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at RepositoryViewModel.cs:319 after blocking 0.2895405s
+2017-04-23 18:09:21.7417|INFO|thread: 1|NewCommitViewModel|Took 1933ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:21.7677|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at RepositoryViewModel.cs:319
+2017-04-23 18:09:21.7677|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at RepositoryViewModel.cs:319 after waiting 9.27E-05s
+2017-04-23 18:09:21.7677|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at RepositoryViewModel.cs:319 after blocking 6.6E-05s
+2017-04-23 18:09:21.7677|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at RepositoryViewModel.cs:319
+2017-04-23 18:09:21.7677|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at RepositoryViewModel.cs:319 after waiting 0.0005078s
+2017-04-23 18:09:21.8513|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at RepositoryViewModel.cs:319 after blocking 0.0458482s
+2017-04-23 18:09:24.9251|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at GitClient.cs:381
+2017-04-23 18:09:24.9251|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at GitClient.cs:381 after waiting 0.0004261s
+2017-04-23 18:09:25.0192|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:09:25.0192|INFO|thread:28|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:09:25.0192|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'diff-tree -r -z --no-renames --name-status 4b825dc642cb6eb9a060e54bf8d69288fbee4904 4e007610d905bd04d2779c5eed42baf4882da8d9 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:09:25.4072|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at GitClient.cs:381 after blocking 0.4816272s
+2017-04-23 18:09:25.5383|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at ICommittedFileForklift.cs:95
+2017-04-23 18:09:25.5383|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at ICommittedFileForklift.cs:95 after waiting 0.0057505s
+2017-04-23 18:09:25.7359|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at ICommittedFileForklift.cs:95 after blocking 0.1917253s
+2017-04-23 18:09:29.4089|INFO|thread: 1|SelectedCommitViewModel|Took 4532ms to load files for commit 8471bd7 in repo C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:31.7644|ERROR|thread:28|SoftwareUpdateViewModel|Checking for application update failed.
+System.Deployment.Application.DeploymentDownloadException: Downloading http://github-windows.s3.amazonaws.com/GitHub.application did not succeed. ---> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 52.216.64.128:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   --- End of inner exception stack trace ---
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   at System.Deployment.Application.SystemNetDownloader.DownloadAllFiles()
+   at System.Deployment.Application.FileDownloader.Download(SubscriptionState subState, X509Certificate2 clientCertificate)
+   at System.Deployment.Application.DownloadManager.DownloadManifestAsRawFile(Uri& sourceUri, String targetPath, IDownloadNotification notification, DownloadOptions options, ServerInformation& serverInformation)
+   at System.Deployment.Application.DownloadManager.DownloadDeploymentManifestDirect(SubscriptionStore subStore, Uri& sourceUri, TempFile& tempFile, IDownloadNotification notification, DownloadOptions options, ServerInformation& serverInformation)
+   at System.Deployment.Application.DownloadManager.DownloadDeploymentManifest(SubscriptionStore subStore, Uri& sourceUri, TempFile& tempFile, IDownloadNotification notification, DownloadOptions options)
+   at System.Deployment.Application.DeploymentManager.BindCore(Boolean blocking, TempFile& tempDeploy, TempDirectory& tempAppDir, FileStream& refTransaction, String& productName)
+   at System.Deployment.Application.DeploymentManager.BindAsyncWorker()
+2017-04-23 18:09:40.9465|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at GitClient.cs:195
+2017-04-23 18:09:40.9465|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at GitClient.cs:195 after waiting 0.0009869s
+2017-04-23 18:09:40.9465|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at RepositoryModel.cs:596
+2017-04-23 18:09:40.9535|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at RepositoryModel.cs:596 after waiting 0.005248s
+2017-04-23 18:09:40.9941|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at GitClient.cs:267
+2017-04-23 18:09:40.9941|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at GitClient.cs:267 after waiting 6.89E-05s
+2017-04-23 18:09:40.9941|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at RepositoryModel.cs:596 after blocking 0.0409524s
+2017-04-23 18:09:41.0006|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at GitClient.cs:195 after blocking 0.052894s
+2017-04-23 18:09:41.0311|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:09:41.0311|INFO|thread:17|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:09:41.0311|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:09:41.1963|INFO|thread: 4|ConcurrentRepositoryConnection|Took 157ms to git status
+2017-04-23 18:09:41.1963|INFO|thread: 4|ConcurrentRepositoryConnection|Took 158ms to git status and parse output
+2017-04-23 18:09:41.1963|INFO|thread: 4|NewCommitViewModel|Took 203ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:41.1963|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at GitClient.cs:267 after blocking 0.2030055s
+2017-04-23 18:09:41.1963|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:09:41.1963|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at RepositoryViewModel.cs:319
+2017-04-23 18:09:41.1963|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at RepositoryViewModel.cs:319 after waiting 7.18E-05s
+2017-04-23 18:09:41.2413|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at RepositoryViewModel.cs:319 after blocking 0.0417246s
+2017-04-23 18:09:56.5718|INFO|thread:13|DashboardViewModel|Selected repository '/Tutorial'
+2017-04-23 18:09:56.5843|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at GitClient.cs:195
+2017-04-23 18:09:56.5843|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at GitClient.cs:195 after waiting 7.43E-05s
+2017-04-23 18:09:56.5843|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at RepositoryModel.cs:596
+2017-04-23 18:09:56.5843|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after waiting 5.33E-05s
+2017-04-23 18:09:56.5843|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at RepositoryModel.cs:596
+2017-04-23 18:09:56.5843|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at RepositoryModel.cs:596 after waiting 0.0024875s
+2017-04-23 18:09:56.6068|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at GitClient.cs:195 after blocking 0.0221785s
+2017-04-23 18:09:56.6088|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at GitClient.cs:267
+2017-04-23 18:09:56.6088|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at GitClient.cs:267 after waiting 4.47E-05s
+2017-04-23 18:09:56.6408|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after blocking 0.0550173s
+2017-04-23 18:09:56.6408|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at RepositoryModel.cs:596 after blocking 0.0525524s
+2017-04-23 18:09:56.6734|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:09:56.6734|INFO|thread: 5|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:09:56.6734|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2017-04-23 18:09:56.8785|INFO|thread:28|ConcurrentRepositoryConnection|Took 198ms to git status
+2017-04-23 18:09:56.8785|INFO|thread:28|ConcurrentRepositoryConnection|Took 198ms to git status and parse output
+2017-04-23 18:09:56.9671|INFO|thread:28|NewCommitViewModel|Took 358ms to load files for C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-04-23 18:09:56.9671|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at GitClient.cs:267 after blocking 0.3264782s
+2017-04-23 18:09:57.5125|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at GitClient.cs:588
+2017-04-23 18:09:57.5125|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at GitClient.cs:588 after waiting 9.72E-05s
+2017-04-23 18:09:57.5305|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at GitClient.cs:588 after blocking 0.0180156s
+2017-04-23 18:09:57.5439|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at GitClient.cs:600
+2017-04-23 18:09:57.5439|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at GitClient.cs:600 after waiting 8.9E-05s
+2017-04-23 18:09:57.5439|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at GitClient.cs:600 after blocking 0.001583s
+2017-04-23 18:09:58.3506|INFO|thread: 1|NewCommitViewModel|Took 1383ms to render file list for C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-04-23 18:09:59.4509|ERROR|thread:18|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2017-04-23 18:10:04.1797|INFO|thread:13|DashboardViewModel|Selected repository ''
+2017-04-23 18:10:04.2013|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at GitClient.cs:195
+2017-04-23 18:10:04.2013|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at GitClient.cs:195 after waiting 7.1E-05s
+2017-04-23 18:10:04.2028|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at RepositoryModel.cs:596
+2017-04-23 18:10:04.2028|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after waiting 7.1E-05s
+2017-04-23 18:10:04.2373|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at GitClient.cs:267
+2017-04-23 18:10:04.2373|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at GitClient.cs:267 after waiting 0.0005755s
+2017-04-23 18:10:04.2373|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after blocking 0.0354626s
+2017-04-23 18:10:04.2373|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at GitClient.cs:195 after blocking 0.0391682s
+2017-04-23 18:10:04.2733|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:10:04.2733|INFO|thread: 9|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:10:04.2733|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:10:04.4734|INFO|thread:34|ConcurrentRepositoryConnection|Took 192ms to git status
+2017-04-23 18:10:04.4734|INFO|thread:34|ConcurrentRepositoryConnection|Took 192ms to git status and parse output
+2017-04-23 18:10:04.4734|INFO|thread:34|NewCommitViewModel|Took 236ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:10:04.4734|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at GitClient.cs:267 after blocking 0.235988s
+2017-04-23 18:10:04.6001|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at OpenInExistingProgramViewModel.cs:266
+2017-04-23 18:10:04.6001|INFO|thread:36|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at OpenInExistingProgramViewModel.cs:266 after waiting 0.0001067s
+2017-04-23 18:10:04.6110|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at GitClient.cs:588
+2017-04-23 18:10:04.6110|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at GitClient.cs:588 after waiting 0.0001174s
+2017-04-23 18:10:04.6110|INFO|thread:10|OpenInExistingProgramViewModel|Took 21ms to load solution files at C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:10:04.6110|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at OpenInExistingProgramViewModel.cs:266 after blocking 0.0202231s
+2017-04-23 18:10:04.6271|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at GitClient.cs:588 after blocking 0.0159259s
+2017-04-23 18:10:05.6607|INFO|thread: 1|NewCommitViewModel|Took 1186ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:10:05.6607|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at RepositoryViewModel.cs:319
+2017-04-23 18:10:05.6607|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at RepositoryViewModel.cs:319 after waiting 8.62E-05s
+2017-04-23 18:10:05.7117|INFO|thread:36|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at RepositoryViewModel.cs:319 after blocking 0.0443825s
+2017-04-23 18:10:07.0848|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 38 at BranchSelectionViewModel.cs:191
+2017-04-23 18:10:07.0848|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38 at BranchSelectionViewModel.cs:191 after waiting 0.0006921s
+2017-04-23 18:10:07.1574|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:10:07.1574|INFO|thread:34|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:10:07.1574|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:10:07.3520|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38 at BranchSelectionViewModel.cs:191 after blocking 0.2660868s
+2017-04-23 18:29:37.8006|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 39 at GitClient.cs:195
+2017-04-23 18:29:37.8006|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39 at GitClient.cs:195 after waiting 0.0001457s
+2017-04-23 18:29:37.8006|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 40 at RepositoryModel.cs:596
+2017-04-23 18:29:37.8006|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40 at RepositoryModel.cs:596 after waiting 8.78E-05s
+2017-04-23 18:29:37.8416|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 41 at GitClient.cs:267
+2017-04-23 18:29:37.8416|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40 at RepositoryModel.cs:596 after blocking 0.0397376s
+2017-04-23 18:29:37.8416|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 41 at GitClient.cs:267 after waiting 0.0002524s
+2017-04-23 18:29:37.8566|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39 at GitClient.cs:195 after blocking 0.055689s
+2017-04-23 18:29:37.8891|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:29:37.8891|INFO|thread: 9|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:29:37.8891|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:29:38.0848|INFO|thread: 9|ConcurrentRepositoryConnection|Took 189ms to git status
+2017-04-23 18:29:38.0848|INFO|thread: 9|ConcurrentRepositoryConnection|Took 189ms to git status and parse output
+2017-04-23 18:29:38.0848|INFO|thread: 9|NewCommitViewModel|Took 244ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:29:38.0848|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 41 at GitClient.cs:267 after blocking 0.2436956s
+2017-04-23 18:29:38.0848|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:29:38.0848|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 42 at RepositoryViewModel.cs:319
+2017-04-23 18:29:38.0848|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 42 at RepositoryViewModel.cs:319 after waiting 5.78E-05s
+2017-04-23 18:29:38.1253|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 42 at RepositoryViewModel.cs:319 after blocking 0.0368757s
+2017-04-23 18:29:38.9052|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 43 at GitClient.cs:195
+2017-04-23 18:29:38.9052|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 43 at GitClient.cs:195 after waiting 0.0001042s
+2017-04-23 18:29:38.9061|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 44 at RepositoryModel.cs:596
+2017-04-23 18:29:38.9061|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after waiting 4.51E-05s
+2017-04-23 18:29:38.9487|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 45 at GitClient.cs:267
+2017-04-23 18:29:38.9487|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after blocking 0.0424673s
+2017-04-23 18:29:38.9487|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 45 at GitClient.cs:267 after waiting 0.0001744s
+2017-04-23 18:29:38.9542|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 43 at GitClient.cs:195 after blocking 0.0487265s
+2017-04-23 18:29:38.9797|INFO|thread:10|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:29:38.9797|INFO|thread:10|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:29:38.9797|INFO|thread:10|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:29:39.1383|INFO|thread:10|ConcurrentRepositoryConnection|Took 152ms to git status
+2017-04-23 18:29:39.1383|INFO|thread:10|ConcurrentRepositoryConnection|Took 153ms to git status and parse output
+2017-04-23 18:29:39.1504|INFO|thread:10|NewCommitViewModel|Took 201ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:29:39.1504|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 45 at GitClient.cs:267 after blocking 0.201461s
+2017-04-23 18:29:39.1504|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:29:39.1504|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 46 at RepositoryViewModel.cs:319
+2017-04-23 18:29:39.1504|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 46 at RepositoryViewModel.cs:319 after waiting 7.63E-05s
+2017-04-23 18:29:39.1824|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 46 at RepositoryViewModel.cs:319 after blocking 0.0302166s
+2017-04-23 18:37:24.4820|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 47 at GitClient.cs:195
+2017-04-23 18:37:24.4820|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 47 at GitClient.cs:195 after waiting 0.0001617s
+2017-04-23 18:37:24.4840|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 48 at RepositoryModel.cs:596
+2017-04-23 18:37:24.4840|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 48 at RepositoryModel.cs:596 after waiting 0.003428s
+2017-04-23 18:37:24.5381|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 47 at GitClient.cs:195 after blocking 0.0555223s
+2017-04-23 18:37:24.5741|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 49 at GitClient.cs:267
+2017-04-23 18:37:24.5741|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 49 at GitClient.cs:267 after waiting 7.18E-05s
+2017-04-23 18:37:24.5741|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 48 at RepositoryModel.cs:596 after blocking 0.0891157s
+2017-04-23 18:37:24.6101|INFO|thread:10|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:37:24.6101|INFO|thread:10|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:37:24.6101|INFO|thread:10|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:37:24.8228|INFO|thread:10|ConcurrentRepositoryConnection|Took 206ms to git status
+2017-04-23 18:37:24.8228|INFO|thread:10|ConcurrentRepositoryConnection|Took 206ms to git status and parse output
+2017-04-23 18:37:24.8228|INFO|thread:10|NewCommitViewModel|Took 251ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:37:24.8228|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 49 at GitClient.cs:267 after blocking 0.250904s
+2017-04-23 18:37:24.8228|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:37:24.8288|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 50 at RepositoryViewModel.cs:319
+2017-04-23 18:37:24.8288|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 50 at RepositoryViewModel.cs:319 after waiting 8.9E-05s
+2017-04-23 18:37:24.8688|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 50 at RepositoryViewModel.cs:319 after blocking 0.039706s
+2017-04-23 18:37:54.7917|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 51 at GitClient.cs:195
+2017-04-23 18:37:54.7917|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 51 at GitClient.cs:195 after waiting 8.74E-05s
+2017-04-23 18:37:54.7917|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 52 at RepositoryModel.cs:596
+2017-04-23 18:37:54.7917|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 52 at RepositoryModel.cs:596 after waiting 0.0002927s
+2017-04-23 18:37:54.8458|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 51 at GitClient.cs:195 after blocking 0.0537298s
+2017-04-23 18:37:54.8458|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 53 at GitClient.cs:267
+2017-04-23 18:37:54.8458|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 53 at GitClient.cs:267 after waiting 0.0002578s
+2017-04-23 18:37:54.8458|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 52 at RepositoryModel.cs:596 after blocking 0.0572844s
+2017-04-23 18:37:54.8883|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:37:54.8883|INFO|thread:34|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:37:54.8883|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:37:55.0442|INFO|thread:38|ConcurrentRepositoryConnection|Took 149ms to git status
+2017-04-23 18:37:55.0442|INFO|thread:38|ConcurrentRepositoryConnection|Took 150ms to git status and parse output
+2017-04-23 18:37:55.0442|INFO|thread:38|NewCommitViewModel|Took 195ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:37:55.0442|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 53 at GitClient.cs:267 after blocking 0.1943113s
+2017-04-23 18:37:55.0467|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:37:55.0467|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 54 at RepositoryViewModel.cs:319
+2017-04-23 18:37:55.0467|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 54 at RepositoryViewModel.cs:319 after waiting 6.28E-05s
+2017-04-23 18:37:55.0847|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 54 at RepositoryViewModel.cs:319 after blocking 0.036661s
+2017-04-23 18:39:33.1107|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 55 at GitClient.cs:195
+2017-04-23 18:39:33.1107|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 55 at GitClient.cs:195 after waiting 0.0001161s
+2017-04-23 18:39:33.1107|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 56 at RepositoryModel.cs:596
+2017-04-23 18:39:33.1107|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 56 at RepositoryModel.cs:596 after waiting 0.0013921s
+2017-04-23 18:39:33.1512|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 57 at GitClient.cs:267
+2017-04-23 18:39:33.1512|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 56 at RepositoryModel.cs:596 after blocking 0.0375518s
+2017-04-23 18:39:33.1512|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 57 at GitClient.cs:267 after waiting 0.000321s
+2017-04-23 18:39:33.1732|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 55 at GitClient.cs:195 after blocking 0.062516s
+2017-04-23 18:39:33.2008|INFO|thread:10|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:39:33.2008|INFO|thread:10|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:39:33.2008|INFO|thread:10|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:39:33.3969|INFO|thread:10|ConcurrentRepositoryConnection|Took 190ms to git status
+2017-04-23 18:39:33.3969|INFO|thread:10|ConcurrentRepositoryConnection|Took 190ms to git status and parse output
+2017-04-23 18:39:33.3969|INFO|thread:10|NewCommitViewModel|Took 247ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:39:33.3969|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 57 at GitClient.cs:267 after blocking 0.2467878s
+2017-04-23 18:39:33.3969|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:39:33.3969|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 58 at RepositoryViewModel.cs:319
+2017-04-23 18:39:33.3969|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 58 at RepositoryViewModel.cs:319 after waiting 6.19E-05s
+2017-04-23 18:39:33.4444|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 58 at RepositoryViewModel.cs:319 after blocking 0.042891s
+2017-04-23 18:51:02.6153|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 59 at GitClient.cs:195
+2017-04-23 18:51:02.6153|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 59 at GitClient.cs:195 after waiting 4.59E-05s
+2017-04-23 18:51:02.6153|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 60 at RepositoryModel.cs:596
+2017-04-23 18:51:02.6153|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 60 at RepositoryModel.cs:596 after waiting 0.0002151s
+2017-04-23 18:51:02.6368|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 61 at GitClient.cs:267
+2017-04-23 18:51:02.6368|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 60 at RepositoryModel.cs:596 after blocking 0.020898s
+2017-04-23 18:51:02.6428|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 61 at GitClient.cs:267 after waiting 0.0059837s
+2017-04-23 18:51:02.6428|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 59 at GitClient.cs:195 after blocking 0.0278116s
+2017-04-23 18:51:02.6633|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:51:02.6633|INFO|thread:34|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:51:02.6633|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:51:02.7194|INFO|thread:38|ConcurrentRepositoryConnection|Took 53ms to git status
+2017-04-23 18:51:02.7194|INFO|thread:38|ConcurrentRepositoryConnection|Took 53ms to git status and parse output
+2017-04-23 18:51:02.7194|INFO|thread:38|NewCommitViewModel|Took 83ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:02.7194|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 61 at GitClient.cs:267 after blocking 0.0769467s
+2017-04-23 18:51:02.7194|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:02.7194|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 62 at RepositoryViewModel.cs:319
+2017-04-23 18:51:02.7194|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 62 at RepositoryViewModel.cs:319 after waiting 2.66E-05s
+2017-04-23 18:51:02.7194|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 62 at RepositoryViewModel.cs:319 after blocking 0.0109106s
+2017-04-23 18:51:03.4119|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 63 at GitClient.cs:195
+2017-04-23 18:51:03.4119|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 63 at GitClient.cs:195 after waiting 3.48E-05s
+2017-04-23 18:51:03.4119|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 64 at RepositoryModel.cs:596
+2017-04-23 18:51:03.4119|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 64 at RepositoryModel.cs:596 after waiting 1.76E-05s
+2017-04-23 18:51:03.4259|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 65 at GitClient.cs:267
+2017-04-23 18:51:03.4259|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 65 at GitClient.cs:267 after waiting 4.1E-05s
+2017-04-23 18:51:03.4259|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 64 at RepositoryModel.cs:596 after blocking 0.0138231s
+2017-04-23 18:51:03.4259|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 63 at GitClient.cs:195 after blocking 0.0172951s
+2017-04-23 18:51:03.4409|INFO|thread:39|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:51:03.4409|INFO|thread:39|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:51:03.4409|INFO|thread:39|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:51:03.4907|INFO|thread:42|ConcurrentRepositoryConnection|Took 47ms to git status
+2017-04-23 18:51:03.4907|INFO|thread:42|ConcurrentRepositoryConnection|Took 47ms to git status and parse output
+2017-04-23 18:51:03.4907|INFO|thread:42|NewCommitViewModel|Took 65ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:03.4907|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 65 at GitClient.cs:267 after blocking 0.0650158s
+2017-04-23 18:51:03.4907|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:03.4907|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 66 at RepositoryViewModel.cs:319
+2017-04-23 18:51:03.4907|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 66 at RepositoryViewModel.cs:319 after waiting 3.2E-05s
+2017-04-23 18:51:03.5047|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 66 at RepositoryViewModel.cs:319 after blocking 0.0093551s
+2017-04-23 18:51:51.7805|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 67 at GitClient.cs:195
+2017-04-23 18:51:51.7805|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 67 at GitClient.cs:195 after waiting 5.17E-05s
+2017-04-23 18:51:51.7805|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 68 at RepositoryModel.cs:596
+2017-04-23 18:51:51.7805|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 68 at RepositoryModel.cs:596 after waiting 0.0001404s
+2017-04-23 18:51:51.7805|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 69 at GitClient.cs:267
+2017-04-23 18:51:51.7805|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 68 at RepositoryModel.cs:596 after blocking 0.0102538s
+2017-04-23 18:51:51.7805|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 69 at GitClient.cs:267 after waiting 0.0002237s
+2017-04-23 18:51:51.8005|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 67 at GitClient.cs:195 after blocking 0.0201861s
+2017-04-23 18:51:51.8005|INFO|thread:46|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:51:51.8005|INFO|thread:46|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:51:51.8005|INFO|thread:46|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:51:51.8591|INFO|thread:34|ConcurrentRepositoryConnection|Took 45ms to git status
+2017-04-23 18:51:51.8591|INFO|thread:34|ConcurrentRepositoryConnection|Took 46ms to git status and parse output
+2017-04-23 18:51:51.8591|INFO|thread:34|NewCommitViewModel|Took 68ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:51.8591|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 69 at GitClient.cs:267 after blocking 0.0681343s
+2017-04-23 18:51:51.8591|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:51:51.8591|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 70 at RepositoryViewModel.cs:319
+2017-04-23 18:51:51.8591|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 70 at RepositoryViewModel.cs:319 after waiting 2.09E-05s
+2017-04-23 18:51:51.8591|INFO|thread:50|AsyncReaderWriterLock|Released concurrent scheduler for operation: 70 at RepositoryViewModel.cs:319 after blocking 0.0095989s
+2017-04-23 18:54:18.4850|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 71 at GitClient.cs:195
+2017-04-23 18:54:18.4850|INFO|thread:50|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 71 at GitClient.cs:195 after waiting 4.84E-05s
+2017-04-23 18:54:18.4850|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 72 at RepositoryModel.cs:596
+2017-04-23 18:54:18.4850|INFO|thread:49|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 72 at RepositoryModel.cs:596 after waiting 0.000126s
+2017-04-23 18:54:18.4850|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 73 at GitClient.cs:267
+2017-04-23 18:54:18.4850|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 72 at RepositoryModel.cs:596 after blocking 0.0114932s
+2017-04-23 18:54:18.4850|INFO|thread:52|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 73 at GitClient.cs:267 after waiting 0.0002101s
+2017-04-23 18:54:18.5041|INFO|thread:48|AsyncReaderWriterLock|Released concurrent scheduler for operation: 71 at GitClient.cs:195 after blocking 0.0187431s
+2017-04-23 18:54:18.5041|INFO|thread:53|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:54:18.5041|INFO|thread:53|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:54:18.5041|INFO|thread:53|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:54:18.5626|INFO|thread:54|ConcurrentRepositoryConnection|Took 47ms to git status
+2017-04-23 18:54:18.5626|INFO|thread:54|ConcurrentRepositoryConnection|Took 47ms to git status and parse output
+2017-04-23 18:54:18.5626|INFO|thread:54|NewCommitViewModel|Took 65ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:54:18.5626|INFO|thread:54|AsyncReaderWriterLock|Released concurrent scheduler for operation: 73 at GitClient.cs:267 after blocking 0.0657088s
+2017-04-23 18:54:18.5626|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:54:18.5626|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 74 at RepositoryViewModel.cs:319
+2017-04-23 18:54:18.5626|INFO|thread:55|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 74 at RepositoryViewModel.cs:319 after waiting 2.25E-05s
+2017-04-23 18:54:18.5626|INFO|thread:53|AsyncReaderWriterLock|Released concurrent scheduler for operation: 74 at RepositoryViewModel.cs:319 after blocking 0.0092065s
+2017-04-23 18:54:26.6047|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 75 at GitClient.cs:195
+2017-04-23 18:54:26.6047|INFO|thread:53|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 75 at GitClient.cs:195 after waiting 3.69E-05s
+2017-04-23 18:54:26.6047|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 76 at RepositoryModel.cs:596
+2017-04-23 18:54:26.6047|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 76 at RepositoryModel.cs:596 after waiting 1.84E-05s
+2017-04-23 18:54:26.6167|INFO|thread:52|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 77 at GitClient.cs:267
+2017-04-23 18:54:26.6167|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 77 at GitClient.cs:267 after waiting 5.91E-05s
+2017-04-23 18:54:26.6167|INFO|thread:52|AsyncReaderWriterLock|Released concurrent scheduler for operation: 76 at RepositoryModel.cs:596 after blocking 0.0113984s
+2017-04-23 18:54:26.6297|INFO|thread:50|AsyncReaderWriterLock|Released concurrent scheduler for operation: 75 at GitClient.cs:195 after blocking 0.0246849s
+2017-04-23 18:54:26.6297|INFO|thread:52|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 18:54:26.6297|INFO|thread:52|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 18:54:26.6297|INFO|thread:52|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 18:54:26.6870|INFO|thread:56|ConcurrentRepositoryConnection|Took 47ms to git status
+2017-04-23 18:54:26.6870|INFO|thread:56|ConcurrentRepositoryConnection|Took 48ms to git status and parse output
+2017-04-23 18:54:26.6870|INFO|thread:56|NewCommitViewModel|Took 70ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:54:26.6870|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 77 at GitClient.cs:267 after blocking 0.0707704s
+2017-04-23 18:54:26.6870|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 18:54:26.6870|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 78 at RepositoryViewModel.cs:319
+2017-04-23 18:54:26.6870|INFO|thread:49|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 78 at RepositoryViewModel.cs:319 after waiting 1.64E-05s
+2017-04-23 18:54:26.6870|INFO|thread:57|AsyncReaderWriterLock|Released concurrent scheduler for operation: 78 at RepositoryViewModel.cs:319 after blocking 0.008745s
+2017-04-23 19:05:12.1242|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 79 at GitClient.cs:195
+2017-04-23 19:05:12.1247|INFO|thread:57|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 79 at GitClient.cs:195 after waiting 4.8E-05s
+2017-04-23 19:05:12.1247|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 80 at RepositoryModel.cs:596
+2017-04-23 19:05:12.1247|INFO|thread:48|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 80 at RepositoryModel.cs:596 after waiting 0.0001978s
+2017-04-23 19:05:12.1247|INFO|thread:48|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 81 at GitClient.cs:267
+2017-04-23 19:05:12.1247|INFO|thread:48|AsyncReaderWriterLock|Released concurrent scheduler for operation: 80 at RepositoryModel.cs:596 after blocking 0.0126197s
+2017-04-23 19:05:12.1427|INFO|thread:48|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 81 at GitClient.cs:267 after waiting 0.0058244s
+2017-04-23 19:05:12.1427|INFO|thread:52|AsyncReaderWriterLock|Released concurrent scheduler for operation: 79 at GitClient.cs:195 after blocking 0.0218164s
+2017-04-23 19:05:12.1572|INFO|thread:44|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 19:05:12.1572|INFO|thread:44|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 19:05:12.1572|INFO|thread:44|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 19:05:12.2154|INFO|thread:46|ConcurrentRepositoryConnection|Took 56ms to git status
+2017-04-23 19:05:12.2154|INFO|thread:46|ConcurrentRepositoryConnection|Took 56ms to git status and parse output
+2017-04-23 19:05:12.2154|INFO|thread:46|NewCommitViewModel|Took 79ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 19:05:12.2154|INFO|thread:46|AsyncReaderWriterLock|Released concurrent scheduler for operation: 81 at GitClient.cs:267 after blocking 0.0733372s
+2017-04-23 19:05:12.2154|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 19:05:12.2184|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 82 at RepositoryViewModel.cs:319
+2017-04-23 19:05:12.2184|INFO|thread:52|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 82 at RepositoryViewModel.cs:319 after waiting 3.2E-05s
+2017-04-23 19:05:12.2184|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 82 at RepositoryViewModel.cs:319 after blocking 0.0086346s
+2017-04-23 19:09:17.4934|INFO|thread:52|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 83 at BranchSynchronizer.cs:141
+2017-04-23 19:09:17.4934|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 83 at BranchSynchronizer.cs:141 after waiting 0.0001182s
+2017-04-23 19:09:17.5169|WARN|thread:43|ConcurrentRepositoryConnection|No remotes found for repository C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\.git\, skipping fetch and fast-forward
+2017-04-23 19:09:17.5169|INFO|thread:43|ConcurrentRepositoryConnection|Pruning merged local branches
+2017-04-23 19:09:17.5394|INFO|thread:43|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 19:09:17.5394|INFO|thread:43|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 19:09:17.5394|INFO|thread:43|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'branch --merged master ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 19:09:17.5594|INFO|thread:43|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 19:09:17.5594|INFO|thread:43|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 19:09:17.5594|INFO|thread:43|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 19:09:17.6115|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 84 at GitClient.cs:195
+2017-04-23 19:09:17.6115|INFO|thread:53|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 84 at GitClient.cs:195 after waiting 3.61E-05s
+2017-04-23 19:09:17.6115|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 85 at RepositoryModel.cs:596
+2017-04-23 19:09:17.6115|INFO|thread:55|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 85 at RepositoryModel.cs:596 after waiting 3.44E-05s
+2017-04-23 19:09:17.6115|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 83 at BranchSynchronizer.cs:141 after blocking 0.1181401s
+2017-04-23 19:09:17.6115|INFO|thread:40|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 86 at GitClient.cs:267
+2017-04-23 19:09:17.6115|INFO|thread:52|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 86 at GitClient.cs:267 after waiting 2.87E-05s
+2017-04-23 19:09:17.6115|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 85 at RepositoryModel.cs:596 after blocking 0.0067042s
+2017-04-23 19:09:17.6115|INFO|thread:51|AsyncReaderWriterLock|Released concurrent scheduler for operation: 84 at GitClient.cs:195 after blocking 0.011081s
+2017-04-23 19:09:17.6325|INFO|thread:54|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 19:09:17.6325|INFO|thread:54|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 19:09:17.6325|INFO|thread:54|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 19:09:17.6760|INFO|thread:56|ConcurrentRepositoryConnection|Took 42ms to git status
+2017-04-23 19:09:17.6760|INFO|thread:56|ConcurrentRepositoryConnection|Took 42ms to git status and parse output
+2017-04-23 19:09:17.6760|INFO|thread:56|NewCommitViewModel|Took 58ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 19:09:17.6760|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 86 at GitClient.cs:267 after blocking 0.0582015s
+2017-04-23 19:09:17.6760|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 19:09:17.6760|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 87 at RepositoryViewModel.cs:319
+2017-04-23 19:09:17.6760|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 87 at RepositoryViewModel.cs:319 after waiting 2.17E-05s
+2017-04-23 19:09:17.6945|INFO|thread:59|AsyncReaderWriterLock|Released concurrent scheduler for operation: 87 at RepositoryViewModel.cs:319 after blocking 0.0168788s
+2017-04-23 20:09:09.8256|INFO|thread:59|SoftwareUpdateViewModel|Checking for new version
+2017-04-23 20:09:17.5057|INFO|thread:40|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 88 at BranchSynchronizer.cs:141
+2017-04-23 20:09:17.5057|INFO|thread:59|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 88 at BranchSynchronizer.cs:141 after waiting 0.0004692s
+2017-04-23 20:09:17.5234|WARN|thread:56|ConcurrentRepositoryConnection|No remotes found for repository C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\.git\, skipping fetch and fast-forward
+2017-04-23 20:09:17.5234|INFO|thread:56|ConcurrentRepositoryConnection|Pruning merged local branches
+2017-04-23 20:09:17.5390|INFO|thread:56|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 20:09:17.5390|INFO|thread:56|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 20:09:17.5390|INFO|thread:56|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'branch --merged master ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 20:09:17.5546|INFO|thread:56|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 20:09:17.5546|INFO|thread:56|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 20:09:17.5546|INFO|thread:56|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 20:09:17.6080|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 89 at GitClient.cs:195
+2017-04-23 20:09:17.6080|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 89 at GitClient.cs:195 after waiting 2.87E-05s
+2017-04-23 20:09:17.6080|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 90 at RepositoryModel.cs:596
+2017-04-23 20:09:17.6080|INFO|thread:55|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 90 at RepositoryModel.cs:596 after waiting 4.92E-05s
+2017-04-23 20:09:17.6080|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 88 at BranchSynchronizer.cs:141 after blocking 0.1144234s
+2017-04-23 20:09:17.6236|INFO|thread:59|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 91 at GitClient.cs:267
+2017-04-23 20:09:17.6236|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 91 at GitClient.cs:267 after waiting 3.07E-05s
+2017-04-23 20:09:17.6236|INFO|thread:59|AsyncReaderWriterLock|Released concurrent scheduler for operation: 90 at RepositoryModel.cs:596 after blocking 0.0091642s
+2017-04-23 20:09:17.6236|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 89 at GitClient.cs:195 after blocking 0.0129346s
+2017-04-23 20:09:17.6392|INFO|thread:56|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-23 20:09:17.6392|INFO|thread:56|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-23 20:09:17.6392|INFO|thread:56|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-23 20:09:17.6705|INFO|thread:56|ConcurrentRepositoryConnection|Took 41ms to git status
+2017-04-23 20:09:17.6705|INFO|thread:56|ConcurrentRepositoryConnection|Took 41ms to git status and parse output
+2017-04-23 20:09:17.6705|INFO|thread:56|NewCommitViewModel|Took 55ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 20:09:17.6705|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 91 at GitClient.cs:267 after blocking 0.0552686s
+2017-04-23 20:09:17.6705|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-23 20:09:17.6861|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 92 at RepositoryViewModel.cs:319
+2017-04-23 20:09:17.6861|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 92 at RepositoryViewModel.cs:319 after waiting 3.16E-05s
+2017-04-23 20:09:17.6861|INFO|thread:54|AsyncReaderWriterLock|Released concurrent scheduler for operation: 92 at RepositoryViewModel.cs:319 after blocking 0.0103938s
+2017-04-24 00:01:52.3559|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 93 at BranchSynchronizer.cs:141
+2017-04-24 00:01:52.3559|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 93 at BranchSynchronizer.cs:141 after waiting 0.000128s
+2017-04-24 00:01:52.3609|WARN|thread:17|ConcurrentRepositoryConnection|No remotes found for repository C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\.git\, skipping fetch and fast-forward
+2017-04-24 00:01:52.3609|INFO|thread:17|ConcurrentRepositoryConnection|Pruning merged local branches
+2017-04-24 00:01:52.3784|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:01:52.3784|INFO|thread:17|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:01:52.3784|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'branch --merged master ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:01:53.8197|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:01:53.8197|INFO|thread:17|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:01:53.8197|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:01:54.1234|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 94 at GitClient.cs:195
+2017-04-24 00:01:54.1234|INFO|thread:47|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 94 at GitClient.cs:195 after waiting 0.0001207s
+2017-04-24 00:01:54.1234|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 95 at RepositoryModel.cs:596
+2017-04-24 00:01:54.1234|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 93 at BranchSynchronizer.cs:141 after blocking 1.7677335s
+2017-04-24 00:01:54.1234|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 95 at RepositoryModel.cs:596 after waiting 5.13E-05s
+2017-04-24 00:01:54.1294|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 96 at GitClient.cs:267
+2017-04-24 00:01:54.1294|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 95 at RepositoryModel.cs:596 after blocking 0.0060625s
+2017-04-24 00:01:54.1294|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 96 at GitClient.cs:267 after waiting 0.0001239s
+2017-04-24 00:01:54.1294|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 94 at GitClient.cs:195 after blocking 0.0143765s
+2017-04-24 00:01:54.1449|INFO|thread:56|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:01:54.1449|INFO|thread:56|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:01:54.1449|INFO|thread:56|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:01:54.2200|INFO|thread:56|ConcurrentRepositoryConnection|Took 72ms to git status
+2017-04-24 00:01:54.2200|INFO|thread:56|ConcurrentRepositoryConnection|Took 73ms to git status and parse output
+2017-04-24 00:01:54.2200|INFO|thread:56|NewCommitViewModel|Took 91ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:01:54.2200|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 96 at GitClient.cs:267 after blocking 0.0913277s
+2017-04-24 00:01:54.2200|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:01:54.2200|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 97 at RepositoryViewModel.cs:319
+2017-04-24 00:01:54.2200|INFO|thread:47|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 97 at RepositoryViewModel.cs:319 after waiting 0.0008013s
+2017-04-24 00:01:54.2345|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 97 at RepositoryViewModel.cs:319 after blocking 0.0114784s
+2017-04-24 00:36:41.2325|INFO|thread:13|DashboardViewModel|Selected repository '/Tutorial'
+2017-04-24 00:36:41.2825|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 98 at GitClient.cs:195
+2017-04-24 00:36:41.2825|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 98 at GitClient.cs:195 after waiting 0.0001592s
+2017-04-24 00:36:41.2825|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 99 at RepositoryModel.cs:596
+2017-04-24 00:36:41.2825|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 99 at RepositoryModel.cs:596 after waiting 4.68E-05s
+2017-04-24 00:36:41.3081|INFO|thread:47|AsyncReaderWriterLock|Released concurrent scheduler for operation: 98 at GitClient.cs:195 after blocking 0.025017s
+2017-04-24 00:36:41.3081|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 100 at GitClient.cs:267
+2017-04-24 00:36:41.3081|INFO|thread:47|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 100 at GitClient.cs:267 after waiting 0.0002565s
+2017-04-24 00:36:41.3081|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 99 at RepositoryModel.cs:596 after blocking 0.0247116s
+2017-04-24 00:36:41.3371|INFO|thread:47|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:36:41.3371|INFO|thread:47|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:36:41.3371|INFO|thread:47|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2017-04-24 00:36:41.4822|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 101 at GitClient.cs:588
+2017-04-24 00:36:41.4882|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 102 at GitClient.cs:600
+2017-04-24 00:36:41.5157|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 101 at GitClient.cs:588 after waiting 0.0334809s
+2017-04-24 00:36:41.5157|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 102 at GitClient.cs:600 after waiting 0.0303525s
+2017-04-24 00:36:41.5157|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 102 at GitClient.cs:600 after blocking 2.99E-05s
+2017-04-24 00:36:41.5157|INFO|thread:56|ConcurrentRepositoryConnection|Took 178ms to git status
+2017-04-24 00:36:41.5157|INFO|thread:56|ConcurrentRepositoryConnection|Took 178ms to git status and parse output
+2017-04-24 00:36:41.5157|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 101 at GitClient.cs:588 after blocking 0.0089655s
+2017-04-24 00:36:41.5157|INFO|thread:56|NewCommitViewModel|Took 219ms to load files for C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-04-24 00:36:41.5157|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 100 at GitClient.cs:267 after blocking 0.2187118s
+2017-04-24 00:36:41.7389|ERROR|thread:18|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2017-04-24 00:36:41.7786|INFO|thread: 1|NewCommitViewModel|Took 250ms to render file list for C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-04-24 00:36:43.2192|INFO|thread:13|DashboardViewModel|Selected repository ''
+2017-04-24 00:36:43.2192|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 103 at GitClient.cs:195
+2017-04-24 00:36:43.2338|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 103 at GitClient.cs:195 after waiting 0.000167s
+2017-04-24 00:36:43.2338|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 104 at RepositoryModel.cs:596
+2017-04-24 00:36:43.2338|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 104 at RepositoryModel.cs:596 after waiting 0.0001252s
+2017-04-24 00:36:43.2678|INFO|thread:27|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 105 at GitClient.cs:267
+2017-04-24 00:36:43.2678|INFO|thread:47|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 105 at GitClient.cs:267 after waiting 7.18E-05s
+2017-04-24 00:36:43.2678|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 104 at RepositoryModel.cs:596 after blocking 0.0326409s
+2017-04-24 00:36:43.2678|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 103 at GitClient.cs:195 after blocking 0.0398883s
+2017-04-24 00:36:43.2928|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:36:43.2928|INFO|thread:40|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:36:43.2928|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:36:43.3673|INFO|thread:56|ConcurrentRepositoryConnection|Took 56ms to git status
+2017-04-24 00:36:43.3673|INFO|thread:56|ConcurrentRepositoryConnection|Took 57ms to git status and parse output
+2017-04-24 00:36:43.3673|INFO|thread:56|NewCommitViewModel|Took 99ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:36:43.3673|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 105 at GitClient.cs:267 after blocking 0.0996093s
+2017-04-24 00:36:43.3963|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 106 at OpenInExistingProgramViewModel.cs:266
+2017-04-24 00:36:43.3963|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 106 at OpenInExistingProgramViewModel.cs:266 after waiting 2.95E-05s
+2017-04-24 00:36:43.4089|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 107 at GitClient.cs:588
+2017-04-24 00:36:43.4089|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 107 at GitClient.cs:588 after waiting 3.32E-05s
+2017-04-24 00:36:43.4089|INFO|thread:17|OpenInExistingProgramViewModel|Took 15ms to load solution files at C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:36:43.4089|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 106 at OpenInExistingProgramViewModel.cs:266 after blocking 0.0066816s
+2017-04-24 00:36:43.4089|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 107 at GitClient.cs:588 after blocking 0.0064907s
+2017-04-24 00:36:43.6886|INFO|thread: 1|NewCommitViewModel|Took 321ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:36:43.6886|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 108 at RepositoryViewModel.cs:319
+2017-04-24 00:36:43.6886|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 108 at RepositoryViewModel.cs:319 after waiting 2.99E-05s
+2017-04-24 00:36:43.6886|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 108 at RepositoryViewModel.cs:319 after blocking 0.0117896s
+2017-04-24 00:36:47.6849|INFO|thread:27|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 109 at BranchSelectionViewModel.cs:191
+2017-04-24 00:36:47.6849|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 109 at BranchSelectionViewModel.cs:191 after waiting 3.53E-05s
+2017-04-24 00:36:47.7019|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:36:47.7019|INFO|thread:27|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:36:47.7019|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:36:47.7672|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 109 at BranchSelectionViewModel.cs:191 after blocking 0.0820317s
+2017-04-24 00:36:49.9518|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 110 at GitClient.cs:615
+2017-04-24 00:36:49.9518|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 110 at GitClient.cs:615 after waiting 0.0001231s
+2017-04-24 00:36:49.9543|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 111 at NewPullRequestViewModel.cs:224
+2017-04-24 00:36:49.9543|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 111 at NewPullRequestViewModel.cs:224 after waiting 7.63E-05s
+2017-04-24 00:36:49.9868|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 112 at GitClient.cs:201
+2017-04-24 00:36:49.9868|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 111 at NewPullRequestViewModel.cs:224 after blocking 0.0350175s
+2017-04-24 00:36:49.9868|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 112 at GitClient.cs:201 after waiting 0.002907s
+2017-04-24 00:36:49.9868|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 113 at RepositoryViewModel.cs:319
+2017-04-24 00:36:50.0203|INFO|thread:56|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 114 at NewPullRequestViewModel.cs:298
+2017-04-24 00:36:50.0203|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 112 at GitClient.cs:201 after blocking 0.0311243s
+2017-04-24 00:36:50.0203|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 113 at RepositoryViewModel.cs:319 after waiting 0.0310241s
+2017-04-24 00:36:50.0203|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 114 at NewPullRequestViewModel.cs:298 after waiting 0.0015941s
+2017-04-24 00:36:50.0404|INFO|thread:47|AsyncReaderWriterLock|Released concurrent scheduler for operation: 110 at GitClient.cs:615 after blocking 0.0880286s
+2017-04-24 00:36:50.0494|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 114 at NewPullRequestViewModel.cs:298 after blocking 0.0277509s
+2017-04-24 00:36:50.0494|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 113 at RepositoryViewModel.cs:319 after blocking 0.0348422s
+2017-04-24 00:36:56.9144|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.LoginViewModel.
+2017-04-24 00:37:23.9084|INFO|thread: 1|RepositoryHost|Log in from cache for login 'Abhisek-Khuntia' to host 'https://api.github.com/' SUCCEEDED
+2017-04-24 00:37:23.9316|INFO|thread:64|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Abhisek-Khuntia' and user.email = 'abhisek.khuntia16@gmail.com'
+2017-04-24 00:37:23.9376|INFO|thread:64|SshKeyHelper|Found existing SSH key pair
+2017-04-24 00:37:23.9675|INFO|thread: 1|RepositoryHosts|Log in to GitHub.com with username 'abhisek.khuntia16@gmail.com' SUCCEEDED
+2017-04-24 00:37:24.0135|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.LoginViewModel.
+2017-04-24 00:37:24.0135|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.LoginViewModel.
+2017-04-24 00:37:25.0644|INFO|thread:27|ApiClient|About to add SSH Key: GitHub Desktop - Abhisek - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDODBApWaYHQcUtpeVwPqOHTZ00taSRfAX+7YyDwHvQ6cQ2NTX23+RILAIqNkUF7WIPyJC1j/IQ/uLp3KCQDSZYTdb+RhIQi7/4SfX88R0zSEvJcgwSh9Zxz9ZnKm2hpXFFUk+GlHva8noftDo7rNNJwpoHcti0xaWeF8MHFcKCblmRQ918fAAwIm41UvBPSIjiuAQqOHcxUZlOz+lg4Bo4ddDoXpfY6Ph72Xq/Mm6EOLAQY7upeDwmmlzr3NQh3enLac1uuAUc8GPYtvYF8QoWqFDUQ26HaibUJKlq2LO7yqA2KLS2tfjXbcMGiBWDxmuADwMDv5Hu7nJ2rCquhRbB BITTOO@Abhisek
+
+2017-04-24 00:37:26.2819|WARN|thread: 1|RepositoryHost|Failed to get organization.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at lambda_method(Closure , Object , Object )
+   at Octokit.Reflection.ReflectionUtils.<>c__DisplayClass19.<GetSetMethodByExpression>b__18(Object source, Object val)
+   at Octokit.PocoJsonSerializerStrategy.DeserializeObject(Object value, Type type)
+   at Octokit.Internal.SimpleJsonSerializer.GitHubSerializerStrategy.DeserializeObject(Object value, Type type)
+   at Octokit.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   at Octokit.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   at Octokit.Internal.SimpleJsonSerializer.Deserialize[T](String json)
+   at Octokit.Internal.JsonHttpPipeline.DeserializeResponse[T](IResponse response)
+   at Octokit.Connection.<Run>d__23`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2017-04-24 00:37:26.5064|INFO|thread:27|SshKeyHelper|ssh-agent already running
+2017-04-24 00:37:26.5064|INFO|thread:27|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2017-04-24 00:37:26.5253|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:37:26.5253|INFO|thread:27|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:37:26.5309|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin\ssh-add.exe', Args: '"C:\Users\ABHISEK KHUNTIA\.ssh\github_rsa"', Working Directory: C:\Users\ABHISEK KHUNTIA\AppData\Local\Temp\
+2017-04-24 00:37:39.6266|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 115 at GitClient.cs:195
+2017-04-24 00:37:39.6266|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 115 at GitClient.cs:195 after waiting 3.4E-05s
+2017-04-24 00:37:39.6266|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 116 at RepositoryModel.cs:596
+2017-04-24 00:37:39.6266|INFO|thread:64|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 116 at RepositoryModel.cs:596 after waiting 1.92E-05s
+2017-04-24 00:37:39.6266|INFO|thread:27|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 117 at GitClient.cs:267
+2017-04-24 00:37:39.6266|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 116 at RepositoryModel.cs:596 after blocking 0.0117009s
+2017-04-24 00:37:39.6266|INFO|thread:64|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 117 at GitClient.cs:267 after waiting 0.0002052s
+2017-04-24 00:37:39.6442|INFO|thread:47|AsyncReaderWriterLock|Released concurrent scheduler for operation: 115 at GitClient.cs:195 after blocking 0.0176403s
+2017-04-24 00:37:39.6442|INFO|thread:62|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:37:39.6442|INFO|thread:62|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:37:39.6442|INFO|thread:62|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:37:39.7082|INFO|thread:41|ConcurrentRepositoryConnection|Took 51ms to git status
+2017-04-24 00:37:39.7082|INFO|thread:41|ConcurrentRepositoryConnection|Took 51ms to git status and parse output
+2017-04-24 00:37:39.7082|INFO|thread:41|NewCommitViewModel|Took 70ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:37:39.7082|INFO|thread:41|AsyncReaderWriterLock|Released concurrent scheduler for operation: 117 at GitClient.cs:267 after blocking 0.0699025s
+2017-04-24 00:37:39.7082|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:37:39.7082|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 118 at RepositoryViewModel.cs:319
+2017-04-24 00:37:39.7082|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 118 at RepositoryViewModel.cs:319 after waiting 2.46E-05s
+2017-04-24 00:37:39.7187|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 118 at RepositoryViewModel.cs:319 after blocking 0.0089979s
+2017-04-24 00:37:58.4112|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/Abhisek-Khuntia/githubdemo.git'
+2017-04-24 00:38:52.4621|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 119 at GitClient.cs:195
+2017-04-24 00:38:52.4621|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 119 at GitClient.cs:195 after waiting 5.82E-05s
+2017-04-24 00:38:52.4621|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 120 at RepositoryModel.cs:596
+2017-04-24 00:38:52.4621|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 120 at RepositoryModel.cs:596 after waiting 0.0012341s
+2017-04-24 00:38:52.4766|INFO|thread:54|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 121 at GitClient.cs:267
+2017-04-24 00:38:52.4766|INFO|thread:62|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 121 at GitClient.cs:267 after waiting 3.16E-05s
+2017-04-24 00:38:52.4766|INFO|thread:54|AsyncReaderWriterLock|Released concurrent scheduler for operation: 120 at RepositoryModel.cs:596 after blocking 0.0129346s
+2017-04-24 00:38:52.4766|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 119 at GitClient.cs:195 after blocking 0.0162978s
+2017-04-24 00:38:52.4972|INFO|thread:56|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:38:52.4972|INFO|thread:56|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:38:52.4972|INFO|thread:56|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:38:52.5602|INFO|thread:27|ConcurrentRepositoryConnection|Took 59ms to git status
+2017-04-24 00:38:52.5602|INFO|thread:27|ConcurrentRepositoryConnection|Took 59ms to git status and parse output
+2017-04-24 00:38:52.5602|INFO|thread:27|NewCommitViewModel|Took 84ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:38:52.5602|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 121 at GitClient.cs:267 after blocking 0.0844305s
+2017-04-24 00:38:52.5622|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:38:52.5622|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 122 at RepositoryViewModel.cs:319
+2017-04-24 00:38:52.5622|INFO|thread:59|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 122 at RepositoryViewModel.cs:319 after waiting 0.0013236s
+2017-04-24 00:38:52.5837|INFO|thread:43|AsyncReaderWriterLock|Released concurrent scheduler for operation: 122 at RepositoryViewModel.cs:319 after blocking 0.0193884s
+2017-04-24 00:42:19.8805|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 123 at GitClient.cs:195
+2017-04-24 00:42:19.8805|INFO|thread:56|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 123 at GitClient.cs:195 after waiting 5.33E-05s
+2017-04-24 00:42:19.8805|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 124 at RepositoryModel.cs:596
+2017-04-24 00:42:19.8805|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 124 at RepositoryModel.cs:596 after waiting 2.17E-05s
+2017-04-24 00:42:19.8931|INFO|thread:27|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 125 at GitClient.cs:267
+2017-04-24 00:42:19.8931|INFO|thread:62|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 125 at GitClient.cs:267 after waiting 3.9E-05s
+2017-04-24 00:42:19.8931|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 124 at RepositoryModel.cs:596 after blocking 0.0122556s
+2017-04-24 00:42:19.8931|INFO|thread:59|AsyncReaderWriterLock|Released concurrent scheduler for operation: 123 at GitClient.cs:195 after blocking 0.018252s
+2017-04-24 00:42:19.9121|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:42:19.9121|INFO|thread:40|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:42:19.9121|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:42:19.9911|INFO|thread:27|ConcurrentRepositoryConnection|Took 73ms to git status
+2017-04-24 00:42:19.9911|INFO|thread:27|ConcurrentRepositoryConnection|Took 73ms to git status and parse output
+2017-04-24 00:42:19.9911|INFO|thread:27|NewCommitViewModel|Took 99ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:42:19.9911|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 125 at GitClient.cs:267 after blocking 0.0991667s
+2017-04-24 00:42:19.9911|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:42:19.9911|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 126 at RepositoryViewModel.cs:319
+2017-04-24 00:42:19.9911|INFO|thread:46|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 126 at RepositoryViewModel.cs:319 after waiting 6.24E-05s
+2017-04-24 00:42:20.0121|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 126 at RepositoryViewModel.cs:319 after blocking 0.0180932s
+2017-04-24 00:43:54.5064|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 127 at GitClient.cs:195
+2017-04-24 00:43:54.5064|INFO|thread:46|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 127 at GitClient.cs:195 after waiting 4.8E-05s
+2017-04-24 00:43:54.5064|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 128 at RepositoryModel.cs:596
+2017-04-24 00:43:54.5064|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 128 at RepositoryModel.cs:596 after waiting 0.0013162s
+2017-04-24 00:43:54.5244|INFO|thread:40|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 129 at GitClient.cs:267
+2017-04-24 00:43:54.5244|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 128 at RepositoryModel.cs:596 after blocking 0.0156052s
+2017-04-24 00:43:54.5244|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 129 at GitClient.cs:267 after waiting 9.11E-05s
+2017-04-24 00:43:54.5374|INFO|thread:52|AsyncReaderWriterLock|Released concurrent scheduler for operation: 127 at GitClient.cs:195 after blocking 0.0308439s
+2017-04-24 00:43:54.5374|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:43:54.5374|INFO|thread:40|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:43:54.5374|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:43:54.6255|INFO|thread:27|ConcurrentRepositoryConnection|Took 75ms to git status
+2017-04-24 00:43:54.6255|INFO|thread:27|ConcurrentRepositoryConnection|Took 75ms to git status and parse output
+2017-04-24 00:43:54.6255|INFO|thread:27|NewCommitViewModel|Took 101ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:43:54.6255|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 129 at GitClient.cs:267 after blocking 0.1016838s
+2017-04-24 00:43:54.6255|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:43:54.6255|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 130 at RepositoryViewModel.cs:319
+2017-04-24 00:43:54.6255|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 130 at RepositoryViewModel.cs:319 after waiting 3.85E-05s
+2017-04-24 00:43:54.6405|INFO|thread:46|AsyncReaderWriterLock|Released concurrent scheduler for operation: 130 at RepositoryViewModel.cs:319 after blocking 0.0124785s
+2017-04-24 00:48:54.1735|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 131 at GitClient.cs:195
+2017-04-24 00:48:54.1735|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 131 at GitClient.cs:195 after waiting 3.94E-05s
+2017-04-24 00:48:54.1735|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 132 at RepositoryModel.cs:596
+2017-04-24 00:48:54.1735|INFO|thread:54|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 132 at RepositoryModel.cs:596 after waiting 2.09E-05s
+2017-04-24 00:48:54.1870|INFO|thread:46|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 133 at GitClient.cs:267
+2017-04-24 00:48:54.1870|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 133 at GitClient.cs:267 after waiting 4.84E-05s
+2017-04-24 00:48:54.1870|INFO|thread:46|AsyncReaderWriterLock|Released concurrent scheduler for operation: 132 at RepositoryModel.cs:596 after blocking 0.0134634s
+2017-04-24 00:48:54.1870|INFO|thread:27|AsyncReaderWriterLock|Released concurrent scheduler for operation: 131 at GitClient.cs:195 after blocking 0.022991s
+2017-04-24 00:48:54.2080|INFO|thread:52|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:48:54.2080|INFO|thread:52|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:48:54.2080|INFO|thread:52|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:48:54.2906|INFO|thread:56|ConcurrentRepositoryConnection|Took 79ms to git status
+2017-04-24 00:48:54.2906|INFO|thread:56|ConcurrentRepositoryConnection|Took 80ms to git status and parse output
+2017-04-24 00:48:54.2906|INFO|thread:56|NewCommitViewModel|Took 103ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:48:54.2906|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 133 at GitClient.cs:267 after blocking 0.1037468s
+2017-04-24 00:48:54.2906|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:48:54.2906|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 134 at RepositoryViewModel.cs:319
+2017-04-24 00:48:54.2976|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 134 at RepositoryViewModel.cs:319 after waiting 0.0013277s
+2017-04-24 00:48:54.3186|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 134 at RepositoryViewModel.cs:319 after blocking 0.0207892s
+2017-04-24 00:49:04.1720|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 135 at BranchSelectionViewModel.cs:191
+2017-04-24 00:49:04.1720|INFO|thread:62|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 135 at BranchSelectionViewModel.cs:191 after waiting 2.95E-05s
+2017-04-24 00:49:04.2000|INFO|thread:59|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:49:04.2000|INFO|thread:59|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:49:04.2000|INFO|thread:59|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:49:04.2860|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 135 at BranchSelectionViewModel.cs:191 after blocking 0.1139825s
+2017-04-24 00:49:10.7117|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 136 at ICommitFetcher.cs:55
+2017-04-24 00:49:10.7117|INFO|thread:52|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 136 at ICommitFetcher.cs:55 after waiting 0.0001473s
+2017-04-24 00:49:10.7227|INFO|thread:59|AsyncReaderWriterLock|Released concurrent scheduler for operation: 136 at ICommitFetcher.cs:55 after blocking 0.0107013s
+2017-04-24 00:49:18.5917|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
+2017-04-24 00:49:18.5962|INFO|thread: 1|SoftwareUpdateViewModel|Checking for new version
+2017-04-24 00:51:53.9246|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 137 at GitClient.cs:195
+2017-04-24 00:51:53.9246|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 137 at GitClient.cs:195 after waiting 4.68E-05s
+2017-04-24 00:51:53.9246|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 138 at RepositoryModel.cs:596
+2017-04-24 00:51:53.9246|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 138 at RepositoryModel.cs:596 after waiting 2.01E-05s
+2017-04-24 00:51:53.9246|INFO|thread:40|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 139 at GitClient.cs:267
+2017-04-24 00:51:53.9246|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 139 at GitClient.cs:267 after waiting 3.48E-05s
+2017-04-24 00:51:53.9246|INFO|thread:40|AsyncReaderWriterLock|Released concurrent scheduler for operation: 138 at RepositoryModel.cs:596 after blocking 0.0118163s
+2017-04-24 00:51:53.9456|INFO|thread:56|AsyncReaderWriterLock|Released concurrent scheduler for operation: 137 at GitClient.cs:195 after blocking 0.0211616s
+2017-04-24 00:51:53.9567|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 26096:/tmp/ssh-XKnslys7KLUw/agent.12796
+2017-04-24 00:51:53.9567|INFO|thread:27|GitEnvironment|PATH is C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\ABHISEK KHUNTIA\AppData\Local\Apps\2.0\3X88EC55.ONR\B30C9KOR.BAZ\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-04-24 00:51:53.9567|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\ABHISEK KHUNTIA\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup\
+2017-04-24 00:51:54.0162|INFO|thread:54|ConcurrentRepositoryConnection|Took 56ms to git status
+2017-04-24 00:51:54.0162|INFO|thread:54|ConcurrentRepositoryConnection|Took 56ms to git status and parse output
+2017-04-24 00:51:54.0162|INFO|thread:54|NewCommitViewModel|Took 80ms to load files for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:51:54.0162|INFO|thread:54|AsyncReaderWriterLock|Released concurrent scheduler for operation: 139 at GitClient.cs:267 after blocking 0.0800746s
+2017-04-24 00:51:54.0162|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\ABHISEK KHUNTIA\Documents\GitHub\Turbot-Warmup
+2017-04-24 00:51:54.0162|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 140 at RepositoryViewModel.cs:319
+2017-04-24 00:51:54.0162|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 140 at RepositoryViewModel.cs:319 after waiting 0.001028s
